@@ -4,7 +4,9 @@
              xmlns:local="clr-namespace:ftibantaS3"
              x:Class="ftibantaS3.App">
     <Application.Resources>
-
+        
+        <!--estilo global-->
+        
         <Style x:Key="BotonGlobal" TargetType="Button">
             <Setter Property="BackgroundColor" Value="Bisque"/>
             <Setter Property="TextColor" Value="Blue"/>
